@@ -48,5 +48,5 @@ The distro that you've chosen above should now display a '2' under the 'version'
 
 # Reference
 ## [WSL2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
-## [GITHUB] (https://github.com/microsoft/WSL/issues)
-#
+## [GITHUB](https://github.com/microsoft/WSL/issues)
+
