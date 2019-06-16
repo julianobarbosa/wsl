@@ -46,4 +46,7 @@ wsl --list --verbose or wsl -l -v
 ```
 The distro that you've chosen above should now display a '2' under the 'version' column. Now that you're finished feel free to start using your WSL 2 distro!
 
-# Reference [WSL2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
+# Reference
+## [WSL2](https://docs.microsoft.com/en-us/windows/wsl/wsl2-install)
+## [GITHUB] (https://github.com/microsoft/WSL/issues)
+#
